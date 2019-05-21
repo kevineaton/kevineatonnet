@@ -1,4 +1,4 @@
-baseURL = "./"
+baseURL = "https://www.kevineaton.net/"
 languageCode = "en-us"
 title = "Kevin Howard Eaton, PhD"
 theme = "personal-web"
