@@ -1,0 +1,25 @@
+{{ partial "header" .}}
+
+
+<h1>{{ .Title }}</h1>
+
+<img title="{{.Title}}" alt="{{.Title}}" src="/portfolio/{{ .Params.Thumbnail }}" />
+
+<h2>{{ .Description }}</h2>
+<div class="tags">
+  {{ partial "portfolio/tags" .}}
+</div>
+
+
+{{ .Content }}
+
+{{ if .Params.testimonial }}
+  <h3>Testimonial</h3>
+  <div class="testimonial-list">
+    {{ with .Params.testimonial }}
+        {{ partial "portfolio/testimonial" . }}
+    {{ end }}
+  </div>
+{{ end }}
+
+{{ partial "footer" .}}

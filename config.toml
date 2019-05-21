@@ -1,0 +1,108 @@
+baseURL = "http://kevineaton.net/"
+languageCode = "en-us"
+title = "Kevin Howard Eaton, PhD"
+theme = "personal-web"
+copyright = "(C) Kevin Eaton"
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[params.intro]
+  main = "Kevin Eaton, PhD"
+  sub = "Technology Leader, Non-Profit Founder, PhD, Chaplain, Geek"
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  breadcrumb = true
+  accentColor = "#FD3519"
+  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+
+[params.notFound]
+  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Bummer!'
+  p = "It seems that this page doesn't exist."
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post = "article"
+  portfolio = "project"
+
+[params.sidebar]
+  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/images/kevin3.jpg"
+[params.assets]
+  favicon = ""
+  customCSS = ""
+
+[params.social]
+  github = "https://github.com/kevineaton"
+  twitter = "https://twitter.com/kevinheaton"
+  linkedin = "https://www.linkedin.com/in/kevinheaton/"
+
+[params.contact]
+  email = "kevinhowardeaton@gmail.com"
+  text= "Email Me!" # text of the contact link in the sidebar. If email params.contact.email is defined
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  title = "About section"
+  url = "/about/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "portfolio"
+  name = "Experience"
+  title = "Experience"
+  url = "/portfolio/"
+  weight = -110
+
+[[menu.main]]
+  identifier = "military"
+  name = "Military Experience"
+  title = "Military Experience"
+  url = "/military/"
+  weight = -105
+
+[[menu.main]]
+  identifier = "academic"
+  name = "Academic Experience"
+  title = "Academic Experience"
+  url = "/academic/"
+  weight = -100
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  title = "Blog section"
+  url = "/post/"
+  weight = -100
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
