@@ -4,7 +4,7 @@ description: Developer, Information Management Officer
 date: "2007-05-01T19:47:09+02:00"
 jobDate: 2007
 work: [Developer, Information Management Officer]
-techs: [Java, PHP, C#, .NET, Javascript, Tomcat, Glassfish, MySQL, Active Directory]
+techs: [Java, PHP, .NET, Javascript, Tomcat, Glassfish, MySQL, Active Directory]
 thumbnail: ctc/ctc.png
 projectUrl: https://www.ctcd.edu/
 ---

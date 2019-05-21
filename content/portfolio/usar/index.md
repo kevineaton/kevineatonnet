@@ -4,7 +4,7 @@ description: Chief Software Architect
 date: "203-05-02T19:47:09+02:00"
 jobDate: 2003 - 2007
 work: [Independent Consultant]
-techs: [PHP, MySQL, Apache, HTML, CSS, Javadcript]
+techs: [PHP, MySQL, Apache, HTML, CSS, Javascript]
 thumbnail: independent/independent.png
 projectUrl: https://www.kevineaton.net
 ---
