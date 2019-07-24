@@ -4,7 +4,7 @@ description: Military
 images: ["/images/sample.jpg"]
 ---
 
-I have over 16 years of Military Experience in the US Army Reserve.
+I have over 16 years of Military Experience in the US Army. I am a Lifetime Member of the Veterans of Foreign Wars and a combat veteran.
 
 **Rank/MOS/Status**: MAJ, 56A, TPU/USAR
 

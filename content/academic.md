@@ -10,7 +10,7 @@ I have over a decade of research and teaching experience in academia.
 
 **Professor of Computer Science**  2009 - Present
 
-*Purdue University / Kaplan University / Hesser College*
+### Purdue University / Kaplan University / Hesser College
 
 - Developed curriculum and taught classes online for Kaplan University and on campus at Hesser College
 
@@ -24,6 +24,8 @@ I have over a decade of research and teaching experience in academia.
 - Subject Matter Expert and Course Developer for the following courses
   - IT414 Advanced Cloud Deployment Models
   - IT227 Introduction to Cloud Architectures
+
+- Course evaluator and Prior Learning Assessment evaluator
 
 - Focused on teaching .NET, PHP, Java, Javascript, Cyber Security, Network Security, Cloud Computing, Systems Administration, DevOps, Ethics, Software Engineering, Web Development, Business Computer Applications, and the Humanities
 
