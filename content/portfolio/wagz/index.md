@@ -9,7 +9,7 @@ thumbnail: wagz/wagz.png
 projectUrl: https://www.wagz.com
 ---
 
-As the Chief SOftware Architect, I was directly responsible for all aspects of Information, Data, and Systems for a Smart-Home Pet Technology IoT startup. I managed a large team of engineers to ensure constant product delivery and improvements while ensuring Business Intelligence needs were met.
+As the Chief Software Architect, I was directly responsible for all aspects of Information, Data, and Systems for a Smart-Home Pet Technology IoT startup. I managed a large team of engineers to ensure constant product delivery and improvements while ensuring Business Intelligence needs were met.
 
 - Serves as the technical leader of software engineering and systems architecture for a smart pet device startup
 

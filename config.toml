@@ -91,12 +91,12 @@ pygmentsCodeFences=true
   url = "/resume.pdf"
   weight = -90
 
-# [[menu.main]]
-#   identifier = "blog"
-#   name = "Blog"
-#   title = "Blog section"
-#   url = "/post/"
-#   weight = -100
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  title = "Blog section"
+  url = "/post/"
+  weight = -100
 
 [sitemap]
   changefreq = "monthly"
