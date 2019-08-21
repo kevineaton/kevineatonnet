@@ -1,6 +1,6 @@
 ---
-title: POST
-description: 'Posts Section'
+title: Blog
+description: 'My blog posts, updated randomly'
 ---
 
-You'll add here a general introduction of your posts.
+Random thoughts on technology, leadership, and entrepreneurship.

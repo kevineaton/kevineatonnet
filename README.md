@@ -11,3 +11,5 @@ The theme for this site is the ["personal-web"](https://github.com/bjacquemet/pe
 ## Running
 
 After cloning, run `hugo serve` to start the local development environment.
+
+Make sure you have the extended version of Hugo installed. Last tested with version v0.57.2

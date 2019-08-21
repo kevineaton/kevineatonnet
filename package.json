@@ -1,12 +1,12 @@
 {
-  "name": "personal-web",
-  "description": "Simple Personal website theme for Hugo",
-  "version": "0.0.1",
+  "name": "kevineaton-net",
+  "description": "Kevin Eaton's Personal Website",
+  "version": "1.0.1",
   "author": {
-    "name": "Baptiste Jacquemet",
-    "url": "https://baptistej.com"
+    "name": "Kevin Eaton",
+    "url": "https://kevineaton.net"
   },
-  "repository": "bjacquemet/personal-web",
+  "repository": "github.com/kevineaton/kevineatonnet",
   "license": "MIT",
   "dependencies": {}
 }
