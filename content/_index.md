@@ -1,5 +1,5 @@
 ---
-title: HOME
+title: Kevin Eaton, PhD
 description: KevinEaton.Net
 images: ["/images/sample.jpg"]
 ---

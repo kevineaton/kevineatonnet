@@ -1,26 +1,26 @@
 ---
 title: Military Experience
 description: Military
-images: ["/images/sample.jpg"]
 ---
 
-I have over 16 years of Military Experience in the US Army. I am a Lifetime Member of the Veterans of Foreign Wars and a combat veteran.
+I have over 18 years of Military Experience in the US Army. I am a Lifetime Member of the Veterans of Foreign Wars and a combat veteran.
 
 **Rank/MOS/Status**: MAJ, 56A, TPU/USAR
 
-**Total Years of Service**: 16+ Years
+**Total Years of Service**: 18+ Years
 
 ## Military Education
 
+- Intermediate Level Education Phase 1 - 2020
 - Chaplain Captain Career Course Phase 2 - 2017
 - Chaplain Captain Career Course Phase 1 - 2013
-- Clinical Pastoral Education - 2010
 - Chaplain Basic Officer Leadership Course - 2009
 - Administrative Support NCO Reclassification Course - 2004
 - Advanced Individual Training - Signal Corps (25U) - 2004
 - Basic Combat Training - 2003
 
 <img src="/images/cab.jpg" style="width: 30%; display:block; margin-left: auto; margin-right: auto" />
+
 <img src="/images/awards.png" style="width: 50%; display:block; margin-left: auto; margin-right: auto" />
 
 ## Awards and Decorations
@@ -34,6 +34,8 @@ I have over 16 years of Military Experience in the US Army. I am a Lifetime Memb
 - Afghanistan Campaign Medal W/1 Campaign Star
 - Global War on Terrorism Expeditionary Medal
 - Global War on Terrorism Service Medal
+- Armed Forces Service Medal
+- Military Outstanding Volunteer Service Medal
 - Armed Forces Reserve Medal with M Device, Bronze Hourglass and Numeral 2
 - Army Service Ribbon
 - Overseas Service Ribbon W/ Numeral 2
@@ -84,7 +86,7 @@ Theater Gateway Chaplain
 - 1st Theater Support Command, Camp Arifjan, Kuwait
 - November 2015 - April 2016
 
-Brigade Chaplain
+Brigade Chaplain, Task Force Guardian OIC (2021)
 
 - 302 MEB, Westover, MA
 - April 2016 - Present
