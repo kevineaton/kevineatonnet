@@ -1,6 +1,6 @@
 ---
 title: Academic Experience
-description: Academi
+description: Academic
 images: ["/images/sample.jpg"]
 ---
 

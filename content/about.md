@@ -1,10 +1,9 @@
 ---
-title: ABOUT
-description: Hey, I'm Edna West
-images: ["/images/sample.jpg"]
+title: About
+description: About Kevin Eaton, PhD
 ---
 
-My name is Kevin Eaton, and I am a proud geek, father, husband, software engineering leader, and Army Chaplain. I am a Chief Software Architect in my current position with over 17 years of professional experience, specializing in NodeJS, GoLang, Elixir, Javascript, Python, and mobile development. I have tons of DevOps and architecture experience. I love designing strong, reliable, and high quality software. Software craftsmanship is a passion.
+My name is Kevin Eaton, and I am a proud geek, father, husband, software engineering leader, and Army Chaplain. I am a Chief Software Architect in my current position with over 17 years of professional experience, specializing in GoLang, NodeJS, Typescript / Javascript, PHP, Elixir, Python, and mobile development. I have tons of DevOps and architecture experience. I love designing strong, reliable, and high quality software. Software craftsmanship is a passion.
 
 I am also an ordained minister, serving the U.S. Army as a Brigade Chaplain.
 
@@ -39,9 +38,13 @@ Bachelor of Science in Computer Science
 Associate of Science in Technical Management
     *Embry Riddle Aeronautical University*
 
+## Professional Development
+
+- Clinical Pastoral Education
+
 ## Taekwondo
 
-- Ee Dan (Second Degree) Black Belt with Stripes
+- Sam Dan (Third Degree) Black Belt with Stripes
 
 - Class B Certified Instructor
 
