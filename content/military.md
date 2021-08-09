@@ -9,8 +9,10 @@ I have over 18 years of Military Experience in the US Army. I am a Lifetime Memb
 
 **Total Years of Service**: 18+ Years
 
-## Military Education
+## Professional Military Education
 
+- Intermediate Level Education Phase 3 - 2021
+- Intermediate Level Education Phase 2 - 2021
 - Intermediate Level Education Phase 1 - 2020
 - Chaplain Captain Career Course Phase 2 - 2017
 - Chaplain Captain Career Course Phase 1 - 2013
@@ -19,12 +21,17 @@ I have over 18 years of Military Experience in the US Army. I am a Lifetime Memb
 - Advanced Individual Training - Signal Corps (25U) - 2004
 - Basic Combat Training - 2003
 
+## Additional Related Training
+
+- Clinical Pastoral Education - 2020-2021
+
 <img src="/images/cab.jpg" style="width: 30%; display:block; margin-left: auto; margin-right: auto" />
 
 <img src="/images/awards.png" style="width: 50%; display:block; margin-left: auto; margin-right: auto" />
 
 ## Awards and Decorations
 
+- Meritorious Service Medal
 - Joint Service Commendation Medal
 - Army Commendation Medal W/2 OLC
 - Army Achievement Medal W/2 OLC
