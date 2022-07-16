@@ -3,7 +3,7 @@ title: Military Experience
 description: Military
 ---
 
-I have over 18 years of Military Experience in the US Army. I am a Lifetime Member of the Veterans of Foreign Wars and a combat veteran.
+I have over 19 years of Military Experience in the US Army. I am a Lifetime Member of the Veterans of Foreign Wars and a combat veteran.
 
 **Rank/MOS/Status**: MAJ, 56A, TPU/USAR
 
@@ -24,6 +24,8 @@ I have over 18 years of Military Experience in the US Army. I am a Lifetime Memb
 ## Additional Related Training
 
 - Clinical Pastoral Education - 2020-2021
+- Certified Mental Health Coach - 2021
+- Cognitive Behavioral Therapy Certification - 2021
 
 <img src="/images/cab.jpg" style="width: 30%; display:block; margin-left: auto; margin-right: auto" />
 
@@ -96,4 +98,14 @@ Theater Gateway Chaplain
 Brigade Chaplain, Task Force Guardian OIC (2021)
 
 - 302 MEB, Westover, MA
-- April 2016 - Present
+- April 2016 - November 2021
+
+Task Force Chaplain, Operation: ALLIES WELCOME
+
+- Task Force McCoy, Fort McCoy WI
+- December 2021 - March 2022
+
+Brigade Chaplain, Task Force Guardian OIC (2021)
+
+- 302 MEB, Westover, MA
+- April 2022 - Present

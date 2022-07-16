@@ -10,16 +10,24 @@ I have over a decade of research and teaching experience in academia.
 
 **Professor of Computer Science**  2009 - Present
 
-### Purdue University / Kaplan University / Hesser College
+### Purdue University Global / Kaplan University / Hesser College
 
-- Developed curriculum and taught classes online for Kaplan University and on campus at Hesser College
+- Developed curriculum and taught classes in-person and online
 
 - Courses taught include
   - IT400 Ethics in Cyber Security
+  - IT395 Certified Ethical Hacking II
+  - IT390 Intrusion Detection and Incident Response
+  - IT375 Windows Server Administration
+  - IT332 Principles of Information Systems Architecture
+  - IT304 Application Development and Scripting in the Cloud
   - IT267 Certified Ethical Hacking
   - IT232 Advanced Software Engineering
   - IT222 Introduction to Cloud Computing
   - IT213 Introduction to Software Engineering
+  - IT213 Software Development Concepts
+  - IT117 Website Development
+  - IT104 Introduction to Cybersecurity
 
 - Subject Matter Expert and Course Developer for the following courses
   - IT414 Advanced Cloud Deployment Models

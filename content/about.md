@@ -11,11 +11,14 @@ My favorite hobbies include [Taekwondo](https://www.kiantkd.com) gaming, program
 
 ## Education
 
+Doctor of Ministry in Pastoral Counseling (Doctoral Candidate)
+    *Liberty University, Expected Completion 2023*
+
 Doctor of Business Administration and Applied Computer Science (PhD)
-     *Northcentral University – Cum Laude*
+    *Northcentral University – Cum Laude*
 
 Doctor of Biblical Studies
-     *CTS - Summa Cum Laude*
+    *CTS - Summa Cum Laude*
 
 Master of Divinity
     *Liberty University – Cum Laude*
