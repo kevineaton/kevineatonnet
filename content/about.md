@@ -3,7 +3,7 @@ title: About
 description: About Kevin Eaton, PhD
 ---
 
-My name is Kevin Eaton, and I am a proud geek, father, husband, software engineering leader, and Army Chaplain. I am a Chief Software Architect in my current position with over 17 years of professional experience, specializing in GoLang, NodeJS, Typescript / Javascript, PHP, Elixir, Python, and mobile development. I have tons of DevOps and architecture experience. I love designing strong, reliable, and high quality software. Software craftsmanship is a passion.
+My name is Kevin Eaton, and I am a proud geek, father, husband, software engineering leader, and Army Chaplain. I am a Chief Software Architect in my current position with over 20 years of professional experience, specializing in Gp (Golang), NodeJS, Typescript / Javascript, React, Svelte, PHP, Elixir, Python, and mobile development. I have tons of DevOps and architecture experience. I love designing strong, reliable, and high quality software. Software craftsmanship is a passion.
 
 I am also an ordained minister, serving the U.S. Army as a Brigade Chaplain.
 
@@ -11,11 +11,11 @@ My favorite hobbies include [Taekwondo](https://www.kiantkd.com) gaming, program
 
 ## Education
 
-Doctor of Ministry in Pastoral Counseling (Doctoral Candidate)
-    *Liberty University, Expected Completion 2023*
-
 Doctor of Business Administration and Applied Computer Science (PhD)
     *Northcentral University – Cum Laude*
+
+Doctor of Ministry in Pastoral Counseling (Doctoral Candidate)
+    *Liberty University, Expected Completion 2023*
 
 Doctor of Biblical Studies
     *CTS - Summa Cum Laude*
@@ -47,7 +47,7 @@ Associate of Science in Technical Management
 
 ## Taekwondo
 
-- Sam Dan (Third Degree) Black Belt with Stripes
+- Sabumnim 4th Degree Black Belt Master
 
 - Class B Certified Instructor
 

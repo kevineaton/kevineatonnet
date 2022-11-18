@@ -27,7 +27,8 @@ I have over 19 years of Military Experience in the US Army. I am a Lifetime Memb
 - Certified Mental Health Coach - 2021
 - Cognitive Behavioral Therapy Certification - 2021
 
-<img src="/images/cab.jpg" style="width: 30%; display:block; margin-left: auto; margin-right: auto" />
+
+<img src="/images/jmua_muc.png" style="width: 35%; display:inline; margin-left: auto; margin-right: 10%; " /> <img src="/images/cab.jpg" style="width: 30%; display:inline; margin-left: auto; margin-right: auto" />
 
 <img src="/images/awards.png" style="width: 50%; display:block; margin-left: auto; margin-right: auto" />
 
@@ -51,54 +52,19 @@ I have over 19 years of Military Experience in the US Army. I am a Lifetime Memb
 - Reserve Components Overseas Training Ribbon with 4 Device
 - NATO Medal
 - Joint Meritorious Unit Award
+- Meritorious Unit Commendation
 - Combat Action Badge
 
-## Chronological Lists of Duty Assignments
+### Foreign Awards
 
-Signal Support Systems Specialist
+- Marche Internationale de Diekirch [Luxembourg]
 
-- 94 MP CO, Londonderry, NH
-- Feb 2003 - May 2004
+## Reverse Chronological Lists of Duty Assignments
 
-Administrative Support NCO
-
-- SETAF Augmentation Unit, Vicenza, Italy
-- May 2004 - Nov 2004
-
-Administrative Support NCO - Deployed
-
-- SETAF Augmentation Unit, Vicenza, Italy; Combined/Joint Task Force - 76
-- Nov 2004 - Apr 2006
-
-Administrative Support NCO
-
-- SETAF Augmentation Unit, Vicenza, Italy
-- Apr 2006 - Feb 2007
-
-Chaplain Candidate
-
-- 368 EN BN, Londonderry, NH
-- Feb 2007 - Mar 2011
-
-Battalion Chaplain
-
-- 167 CSSB, Londonderry, NH
-- Mar 2011 - Mar 2013
-
-Brigade Chaplain
+Brigade Chaplain, Task Force Guardian OIC
 
 - 302 MEB, Westover, MA
-- Mar 2013 - November 2015
-
-Theater Gateway Chaplain
-
-- 1st Theater Support Command, Camp Arifjan, Kuwait
-- November 2015 - April 2016
-
-Brigade Chaplain, Task Force Guardian OIC (2021)
-
-- 302 MEB, Westover, MA
-- April 2016 - November 2021
+- April 2022 - Present
 
 Task Force Chaplain, Operation: ALLIES WELCOME
 
@@ -108,4 +74,44 @@ Task Force Chaplain, Operation: ALLIES WELCOME
 Brigade Chaplain, Task Force Guardian OIC (2021)
 
 - 302 MEB, Westover, MA
-- April 2022 - Present
+- April 2016 - November 2021
+
+Theater Gateway Chaplain
+
+- 1st Theater Support Command, Camp Arifjan, Kuwait
+- November 2015 - April 2016
+
+Brigade Chaplain
+
+- 302 MEB, Westover, MA
+- Mar 2013 - November 2015
+
+Battalion Chaplain
+
+- 167 CSSB, Londonderry, NH
+- Mar 2011 - Mar 2013
+
+Chaplain Candidate
+
+- 368 EN BN, Londonderry, NH
+- Feb 2007 - Mar 2011
+
+Administrative Support NCO
+
+- SETAF Augmentation Unit, Vicenza, Italy
+- Apr 2006 - Feb 2007
+
+Team Leader / Squad Leader / Administrative Support NCO - Deployed
+
+- SETAF Augmentation Unit, Vicenza, Italy; Combined/Joint Task Force - 76
+- Nov 2004 - Apr 2006
+
+Administrative Support NCO
+
+- SETAF Augmentation Unit, Vicenza, Italy
+- May 2004 - Nov 2004
+
+Signal Support Systems Specialist
+
+- 94 MP CO, Londonderry, NH
+- Feb 2003 - May 2004
