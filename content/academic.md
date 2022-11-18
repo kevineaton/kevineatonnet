@@ -19,13 +19,15 @@ I have over a decade of research and teaching experience in academia.
   - IT395 Certified Ethical Hacking II
   - IT390 Intrusion Detection and Incident Response
   - IT375 Windows Server Administration
+  - IT374 Linux Security
   - IT332 Principles of Information Systems Architecture
   - IT304 Application Development and Scripting in the Cloud
   - IT267 Certified Ethical Hacking
+  - IT247 Fundamentals of Web Graphics
   - IT232 Advanced Software Engineering
   - IT222 Introduction to Cloud Computing
+  - IT214 Foundations of Web Design
   - IT213 Introduction to Software Engineering
-  - IT213 Software Development Concepts
   - IT117 Website Development
   - IT104 Introduction to Cybersecurity
 
