@@ -3,3 +3,7 @@
     <a href="{{ $url }}" class="social-link" target="_blank" rel="noopener" >{{- partial "svg" (dict "iconName" $name "size" "35px") -}}</a>
   {{end}}
 {{ end }}
+
+{{ range $name, $url := .Site.Params.mastodon }}
+  <a href="{{ $url }}" class="social-link" target="_blank" rel="me" title="{{ $name }}" ><img src="/mastodon.png" /></a>
+{{ end }}

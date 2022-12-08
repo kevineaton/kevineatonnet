@@ -48,6 +48,10 @@ pygmentsCodeFences=true
   github = "https://github.com/kevineaton"
   linkedin = "https://www.linkedin.com/in/kevinheaton/"
 
+[params.mastodon]
+  "@kevineaton@fosstodon.org" = "https://fosstodon.org/@kevineaton"
+  "@kevineaton@mas.to" ="https://mas.to/@kevineaton"
+
 [params.contact]
   email = "kevinhowardeaton@gmail.com"
   text= "Email Me!" # text of the contact link in the sidebar. If email params.contact.email is defined
