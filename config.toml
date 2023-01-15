@@ -68,8 +68,8 @@ pygmentsCodeFences=true
 
 [[menu.main]]
   identifier = "portfolio"
-  name = "Experience"
-  title = "Experience"
+  name = "Technical Experience"
+  title = "Technical Experience"
   url = "/portfolio/"
   weight = -110
 

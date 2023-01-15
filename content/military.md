@@ -7,7 +7,7 @@ I have over 19 years of Military Experience in the US Army. I am a Lifetime Memb
 
 **Rank/MOS/Status**: MAJ, 56A, TPU/USAR
 
-**Total Years of Service**: 18+ Years
+**Total Years of Service**: 20+ Years
 
 ## Professional Military Education
 
@@ -61,10 +61,15 @@ I have over 19 years of Military Experience in the US Army. I am a Lifetime Memb
 
 ## Reverse Chronological Lists of Duty Assignments
 
+Division Chaplain
+
+- 98th Training Division IET, Fort Benning, GA
+- January 2023 - Present
+
 Brigade Chaplain, Task Force Guardian OIC
 
 - 302 MEB, Westover, MA
-- April 2022 - Present
+- April 2022 - January 2023
 
 Task Force Chaplain, Operation: ALLIES WELCOME
 
