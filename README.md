@@ -3,6 +3,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cba4e6d9-3f24-45ac-8dc7-e93e9e26e578/deploy-status)](https://app.netlify.com/sites/kevineatonnet/deploys)
 [![@cevvyn's Holopin board](https://holopin.me/cevvyn)](https://holopin.io/@cevvyn)
 
+![GitHub](https://github-readme-stats-beta-sand.vercel.app/api?username=kevineaton&count_private=true&show_icons=true&theme=radical)
+
 This is the personal website for Kevin H. Eaton of Salem, NH. This site was created as a portfolio using Hugo and Netlify.
 
 ## Theme
