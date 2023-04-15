@@ -3,6 +3,6 @@ title: Technical Experience
 description: 'Portfolio Section'
 ---
 
-I have a wide breadth of experience in several different career fields. I am an accomplished technologist, with nearly two decades of experience in programming, systems administration, DevOps, and engineering leadership.
+I have a wide breadth of experience in several different career fields. I am an accomplished technologist, with nearly two decades of experience in programming, systems administration, DevOps, and engineering leadership. My primary programming languages right now are Go, Svelte, React, Typescript / Javascript, and Python. For data and messaging, I prefer MySQL, RabbitMQ, and Redis. I use Ansible and Docker extensively.
 
-I also have over 19 years of military experience and serve as a Brigade Chaplain (Major) in the US Army Reserve.
+![GitHub](https://github-readme-stats-beta-sand.vercel.app/api?username=kevineaton&count_private=true&show_icons=true&theme=radical)
