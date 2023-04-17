@@ -9,9 +9,9 @@ I have a wide breadth of experience in several different career fields. I am an 
 
 ![Single-Page Resume](/images/single_page_resume.png)
 
-## Full Resume
+[Download Full Resume](/resume.pdf)
 
-[Download](/resume.pdf)
+[Download Single-Page Technology Resume](/single_page_resume.pdf)
 
 ## Github Stats
 
