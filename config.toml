@@ -49,8 +49,9 @@ pygmentsCodeFences=true
   linkedin = "https://www.linkedin.com/in/kevinheaton/"
 
 [params.mastodon]
-  "@kevineaton@fosstodon.org" = "https://fosstodon.org/@kevineaton"
-  "@kevineaton@mas.to" ="https://mas.to/@kevineaton"
+  # "@kevineaton@fosstodon.org" = "https://fosstodon.org/@kevineaton"
+  # "@kevineaton@mas.to" ="https://mas.to/@kevineaton"
+  "@kevineaton@mastodon.social" = "https://mastodon.social/@kevineaton"
 
 [params.contact]
   email = "kevinhowardeaton@gmail.com"
