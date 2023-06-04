@@ -54,7 +54,7 @@ With the selection, implement the basic endpoints that just output basic, epheme
 - `GET /me` - Get the user's profile, needs the auth
 - `PATCH /me` - Update the user's profile, needs the auth
 - `POST /me/refresh` - Refresh a user's access token
-- `GET /users/{number}` - An arbitrary endpoint to look up a user's profile; if authorized then they will get theirs if the ids match; if that isn't their id OR there is no auth, they get an error
+- `GET /users/{id}` - An arbitrary endpoint to look up a user's profile; if authorized then they will get theirs if the ids match; if that isn't their id OR there is no auth, they get an error
 
 Things like password resets, account deletion, and other nice-to-haves will be left for further experimentation. At this point, these endpoint don't "do" anything, other than return placeholder data.
 
