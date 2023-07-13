@@ -1,6 +1,6 @@
 ---
-title: Learning Python and FastAPI - 03 - Data Modeling
-description: Learning Python and FastAPI - 03 - Data Modeling
+title: A Pause
+description: A Pause
 date: "2023-06-30 00:00:00"
 publishDate: "2023-06-30 00:00:00"
 draft: false
