@@ -2,8 +2,8 @@
 title: Learning Python and FastAPI - 02 - HTTP and Routing
 description: Learning Python and FastAPI - 02 - HTTP and Routing
 date: "2023-06-02 00:00:00"
-publishDate: "2030-06-02 00:00:00"
-draft: true
+publishDate: "2023-06-02 00:00:00"
+draft: false
 ---
 
 ## Reminder
