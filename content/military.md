@@ -3,9 +3,9 @@ title: Military Experience
 description: Military
 ---
 
-I have over 19 years of Military Experience in the US Army. I am a Lifetime Member of the Veterans of Foreign Wars and a combat veteran.
+I have over 20 years of Military Experience in the US Army. I am a Lifetime Member of the Veterans of Foreign Wars and a combat veteran.
 
-**Rank/MOS/Status**: MAJ, 56A, TPU/USAR
+**Rank/MOS/Status**: LTC, 56A, TPU/USAR
 
 **Total Years of Service**: 20+ Years
 
@@ -63,7 +63,7 @@ I have over 19 years of Military Experience in the US Army. I am a Lifetime Memb
 
 Division Chaplain
 
-- 98th Training Division IET, Fort Benning, GA
+- 98th Training Division IET, Fort Moore, GA
 - January 2023 - Present
 
 Brigade Chaplain, Task Force Guardian OIC

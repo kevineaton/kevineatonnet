@@ -2,7 +2,7 @@
 title: Wagz Inc
 description: Chief Software Architect
 date: "2019-05-02T19:47:09+02:00"
-jobDate: 2017 - Current
+jobDate: 2017 - 2023
 work: [Chief Software Architect]
 techs: [Go, Typescript, NodeJS, React, MySQL, MariaDB, Aurora, Redis, RabbitMQ, Docker, Kubernetes, Ansible, Segment, Stripe, Chargify, AWS, Digital Ocean]
 thumbnail: wagz/wagz.png
