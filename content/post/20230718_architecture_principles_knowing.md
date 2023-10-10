@@ -6,8 +6,6 @@ publishDate: "2023-07-18 00:00:00"
 draft: false
 ---
 
-## Knowing What is Happening When and Where is Better than Simple Solutions
-
 The primary concern here is that Software Engineers are Professionals. Professionals are, with varying degrees of definitions:
 
 - Trained
