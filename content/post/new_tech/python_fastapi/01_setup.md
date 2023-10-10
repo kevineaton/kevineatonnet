@@ -3,7 +3,7 @@ title: Learning Python and FastAPI - 01 - Set Up
 description: Learning Python and FastAPI - 01 - Set Up
 date: "2023-06-01 15:00:00"
 publishDate: "2023-06-01 15:00:00"
-draft: false
+draft: true
 ---
 
 In this post, we will cover getting set up with Python 3 on an Ubuntu machine and making sure we are good to get started.

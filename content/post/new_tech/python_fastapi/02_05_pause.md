@@ -3,7 +3,7 @@ title: A Pause
 description: A Pause
 date: "2023-06-30 00:00:00"
 publishDate: "2023-06-30 00:00:00"
-draft: false
+draft: true
 ---
 
 ## A Pause
