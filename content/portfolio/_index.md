@@ -7,12 +7,4 @@ I have a wide breadth of experience in several different career fields. I am an 
 
 ## Single-Page Resume
 
-![Single-Page Resume](/images/single_page_resume.png)
-
 [Download Full Resume](/resume.pdf)
-
-[Download Single-Page Technology Resume](/single_page_resume.pdf)
-
-## Github Stats
-
-![GitHub](https://github-readme-stats-beta-sand.vercel.app/api?username=kevineaton&count_private=true&show_icons=true&theme=radical)
