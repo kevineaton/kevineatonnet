@@ -1,0 +1,16 @@
+# Kevin Eaton
+
+> Kevin Eaton, PhD is a technology leader, US Army Reserve Chaplain, professor, and martial arts instructor. This is the hub page linking to his professional sites, each covering one area of his work.
+
+## Sites
+
+- [Technology](https://tech.kevineaton.net): Software architecture, engineering leadership, and entrepreneurship - experience, skills, and projects.
+- [Military](https://military.kevineaton.net): US Army Reserve service as a Chaplain (Lieutenant Colonel) - highlights, awards, assignments, and promotions.
+- [Academia](https://academia.kevineaton.net): Education history, university teaching experience, and academic publications.
+- [Martial Arts](https://martialarts.kevineaton.net): Taekwondo, Tangsoodo, Shotokan Karate, and weapons training - focus areas, training/certifications, competitions, and rank promotions.
+
+## Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/kevinheaton)
+- [GitHub](https://github.com/kevineaton)
+- [Mastodon](https://mastodon.social/@kevineaton)
